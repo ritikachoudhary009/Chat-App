@@ -91,13 +91,12 @@ Visit:
 http://localhost:3000
 You can open this URL in multiple browser tabs or different devices (on the same network) to test live chat functionality.
 
-⚠️ Important Notes
-The chat does not work directly from the index.html file opened in a browser. It must be accessed through the Node.js server (localhost).
 
-When someone clicks on index.html from the GitHub repository or opens it without running the server, the chat functionality will not work. That’s expected behavior since this app depends on server-side Socket.IO logic (server.js).
+## Preview:
 
-The index.html is served automatically when visiting localhost:3000 because it’s handled by this line in server.js:
+Here's how the app will look like:
 
+<img width="1319" height="333" alt="Image" src="https://github.com/user-attachments/assets/af833f6f-46c0-4425-8e0a-ac73a28f08da" />
 
 
 
