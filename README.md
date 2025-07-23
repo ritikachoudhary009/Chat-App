@@ -58,18 +58,6 @@ Here is a quick overview of the technologies used in this project:
 
 ---
 
-##  Folder Structure
-
--chat-app/
--├── public/
-│ ├── index.html # Frontend user interface
-│ ├── style.css # CSS for layout and design
-│ └── client.js # Client-side socket logic
-├── server.js # Node.js backend using Express + Socket.IO
-├── package.json # Project config and dependencies
-
----
-
 ##  How to Run the App
 
  Since i've already uploaded this  chat app to GitHub ,i'll remove the cloning step.To run this chat app locally, please ensure Node.js and npm are installed on your machine.
