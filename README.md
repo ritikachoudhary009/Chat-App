@@ -60,8 +60,8 @@ Here is a quick overview of the technologies used in this project:
 
 ##  Folder Structure
 
-chat-app/
-├── public/
+-chat-app/
+-├── public/
 │ ├── index.html # Frontend user interface
 │ ├── style.css # CSS for layout and design
 │ └── client.js # Client-side socket logic
